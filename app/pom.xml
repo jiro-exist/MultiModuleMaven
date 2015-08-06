@@ -33,7 +33,6 @@
         <resources>
             <resource>
                 <directory>src/main/resources</directory>
-                <!-- <filtering>true</filtering> -->
             </resource>
         </resources>
 
@@ -46,7 +45,7 @@
                         <phase>package</phase>
                         <goals>
                             <goal>
-                                single
+                                single 
                             </goal>
                         </goals>
                     </execution>
