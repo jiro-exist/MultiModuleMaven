@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 test2test
+=======
+<<<<<<< HEAD
+testtest
+=======
+test
+>>>>>>> parent of 2700cfa... testing commit
+>>>>>>> parent of fb79d7c... commit1
