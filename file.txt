@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-testtest
-=======
-test
->>>>>>> parent of 2700cfa... testing commit
+testztest
